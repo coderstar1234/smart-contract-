@@ -48,10 +48,9 @@ Clone the repository: git clone https://github.com/yourusername/smart-contract-a
 
 <h1 align="center">License:--</h1>
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+- This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 <h1 align="center">Acknowledgments:--</h1>
 
-This project was inspired by the need for a secure and transparent system for vendors to provide food, clothes, funds, and other items to attendees.
-
-We would like to thank the blockchain community for their support and contributions to this project.
+- This project was inspired by the need for a secure and transparent system for vendors to provide food, clothes, funds, and other items to attendees.
+- We would like to thank the blockchain community for their support and contributions to this project.
