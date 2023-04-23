@@ -5,7 +5,7 @@
 
 <h1 align="center">Getting Started:--</h1>
 
-Prerequisites
+<h3 align="center">Prerequisites:--</h3>
 
 Before you begin, you will need the following:
 
