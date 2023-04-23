@@ -7,7 +7,7 @@
 
 <h3 align="center">Prerequisites:--</h3>
 
-Before you begin, you will need the following:
+<p align="center">Before you begin, you will need the following:--</p>
 
 A blockchain platform like Ethereum or EOS
 
