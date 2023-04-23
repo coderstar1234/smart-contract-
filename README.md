@@ -29,7 +29,7 @@
 <div align="center" >
 <img height="100" wedith="100" src="https://cdn.dribbble.com/users/1144208/screenshots/2655434/week6---git-scared.gif"></div>
 
- git clone https://github.com/yourusername/smart-contract-attendance.git
+ <p align="center">git clone</p> https://github.com/yourusername/smart-contract-attendance.git
 
 - Open the contract file in your IDE
 
