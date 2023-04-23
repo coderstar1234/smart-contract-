@@ -3,7 +3,7 @@
 - This is a smart contract for a vendor to provide food, clothes, funds, and other items to attendees.
 - The smart contract uses blockchain technology to create a decentralized system that allows for secure and transparent transactions between the vendor and the attendees.
 
-Getting Started
+<h1 align="center">Getting Started:--</h1>
 
 Prerequisites
 
@@ -15,7 +15,7 @@ An IDE like Remix or Truffle
 
 A web3 provider like MetaMask
 
-Installation
+<h1 align="center">Installation:--</h1>
 
 To install and run the smart contract, follow these steps:
 
@@ -23,33 +23,33 @@ Clone the repository: git clone https://github.com/yourusername/smart-contract-a
 
 Open the contract file in your IDE
 
-Compile the contract
+<h1 align="center">Compile the contract:--</h1>
 
 Deploy the contract to your blockchain platform using your web3 provider
 
-Usage
+<h1 align="center">Usage:--</h1>
 
 The smart contract allows attendees to purchase food, clothes, funds, and other items from the vendor using cryptocurrency. The transaction is recorded on the blockchain, providing a secure and transparent record of the transaction.
 
 To use the smart contract, attendees must have a cryptocurrency wallet and access to the blockchain platform. They can then send cryptocurrency to the vendor's address to purchase the item. Once the transaction is confirmed on the blockchain, the item is considered delivered.
 
-Contributing
+<h1 align="center">Contributing:--</h1>
 
 If you would like to contribute to the development of the smart contract, please follow these steps:
 
-Fork the repository
+<h2 align="center">Fork the repository:--</h2>
 
-Make your changes
+<h3 align="center">Make your changes:--</h3>
 
 Submit a pull request
 
 Please make sure your changes are well-documented and thoroughly tested before submitting a pull request.
 
-License
+<h1 align="center">License:--</h1>
 
 This project is licensed under the MIT License - see the LICENSE.md file for details.
 
-Acknowledgments
+<h1 align="center">Acknowledgments:--</h1>
 
 This project was inspired by the need for a secure and transparent system for vendors to provide food, clothes, funds, and other items to attendees.
 
