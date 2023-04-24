@@ -18,7 +18,7 @@
 <h1 align="center">Installation:--</h1>
 
 - To install and run the smart contract, follow these steps:
-<h1 align="center"> Installation:</h1>
+
 <h3 align=" center" >To run this project locally:📺 </h3>
 <div align="center" >
 <img height="200" wedith="200" src="https://media1.giphy.com/media/dvsE3ncGE4g718CAqM/200.gif"></div>
