@@ -14,7 +14,7 @@
 - An IDE like Remix or Truffle.
 
 - A web3 provider like MetaMask.
-
+<hr>
 <h1 align="center">Installation:--</h1>
 
 - To install and run the smart contract, follow these steps:
