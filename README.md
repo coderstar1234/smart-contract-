@@ -1,4 +1,4 @@
-<h1 align="center"> Smart Contract :- with Attendance for Food, Clothes, Funds, and Other Items :--</h1>
+<h1 align="center"> Smart Contract🧾 :- with Attendance for Food, Clothes, Funds, and Other Items :--</h1>
 
 - This is a smart contract for a vendor to provide food, clothes, funds, and other items to attendees.
 - The smart contract uses blockchain technology to create a decentralized system that allows for secure and transparent transactions between the vendor and the attendees.
